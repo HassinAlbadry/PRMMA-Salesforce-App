@@ -1,0 +1,4 @@
+Property_Name__c,Address__c,Type__c,Status__c,Owner_Name__c,Monthly_Rent__c,Description__c,Number_of_Rooms__c
+Sunset Villas Apt 3A,123 Sunset Blvd,Apartment,Occupied,Alice Realty,1200,1-bedroom apartment,3
+Oakwood Townhouse,456 Oakwood Dr,House,Available,Bob Properties,1600,3-bedroom house,5
+Skyline Office 4F,789 Skyline Rd,Office,Maintenance,SkyCo,2500,Office space,4
